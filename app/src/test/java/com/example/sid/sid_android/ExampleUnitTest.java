@@ -1,4 +1,4 @@
-package com.example.sid.sid_android;
+Package com.example.sid.sid_android;
 
 import org.junit.Test;
 
